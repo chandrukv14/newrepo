@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-it test
-=======
 git test
->>>>>>> 3e9f978816dd7c42b06afc0c31d9c28a3fe81b62
