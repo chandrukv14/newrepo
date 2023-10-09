@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 hi wecome to git real
 hi wecome to git real
+=======
+<<<<<<< HEAD
+hi
+=======
+hi wecome to git real
+>>>>>>> 3e9f978816dd7c42b06afc0c31d9c28a3fe81b62
+>>>>>>> d7b3682067e685caa45b79f667472a44ca8be04a
